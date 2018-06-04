@@ -8,3 +8,5 @@ creating a new branch now and its simple.
 =======
 creating a new branch now and its simple.
 >>>>>>> feature1
+
+add merge.
